@@ -29,7 +29,7 @@ h4{ border-bottom: double black;}
   color: black;
 }
 
-.topnav a.hover {
+.topnav a:hover {
   background-color:#ddd;
   color: white;
 }
